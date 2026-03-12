@@ -1,5 +1,6 @@
 {
-  "name": "timer-exercicio",
+  "name": "timer7-exercicio",
   "version": "1.0.0",
+  "main": "timer7/index.js",
   "dependencies": {}
 }
